@@ -6,7 +6,7 @@
 
 
 .interface{
-    max-width: 1280px;
+   
     margin:0 auto;
 }
 
@@ -31,19 +31,22 @@ header{
     align-items: center;
     justify-content: space-between;
 }
+.btn-header {
+    display: flex;
 
+}
 .topo-header .btn-header i{
     width: 50px;
     height: 50px;
-    font-size: 30px;
-    color: black;
+    font-size: 40px;
+    color: rgb(80, 80, 80);
     padding: 0 8px;
-    
 }
 .topo-header .btn-header p{
     font-size: 20px;
     text-align: center;
     color: black;
+    margin-right: 20px;
 }
 .btn-header a{
     text-decoration: none;
