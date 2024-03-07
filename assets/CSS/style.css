@@ -20,8 +20,9 @@ header{
     padding: 20px 4%;
 }
 
-.topo-header .Logotipo img{
-    max-width: 240px;
+.topo-header .logotipo img{
+    width: 150px;
+    height: 100px;
 }
 
 .topo-header > .interface{
